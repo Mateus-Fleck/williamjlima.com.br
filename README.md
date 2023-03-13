@@ -1,2 +1,2 @@
 # williamjlima.com.br
-Landing Page 
+Landing Page - Gold Project 
